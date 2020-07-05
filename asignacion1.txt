@@ -1,0 +1,38 @@
+Función input de python
+
+La función input de python es utilizada para pedir al usuario un argumento por teclado y poder utilizarlo.
+
+Su sintaxis básica es:
+
+variable_por_teclado = input("Ingrese nueva variable: ")
+
+En la linea anterior, vemos un ejemplo del uso de la función input. Cuando ejecutamos esta linea, el programa mostrará
+el texto que pusimos dentro de input (en este caso "Ingrese nueva variable: ") esperará que asignemos por teclado un valor y luego pulsemos Enter, este valor será asignado a la variable (en este caso variable_por_teclado).
+
+
+Si usamos la función type(variable_por_teclado) vamos a obtener que la variable es de tipo cadena (str), entonces si queremos
+pasar un valor numérico por teclado (como la edad de una persona), usaremos:
+
+edad_persona1 = int(input("Ingrese la edad de la primera persona: "))
+
+La función input tomará el valor numérico como una cadena (str), luego la función int() lo convierte en un entero y se lo 
+asigna a la variable edad_persona1.
+
+Usando esta función, realizar los siguientes ejercicios
+
+En los primeros años de educación aprendimos que el diametro de una circunferencia es el doble de su radio, que el área de una circunferencia es 2*pi*radio. El área de un triangulo rectángulo es 0.5*base*altura y el área de un rectángulo es base*altura.
+
+1) Realizar un programa en el que el usuario ingrese por pantalla el radio de una circunferencia 
+( radio_circ = float(input("Ingrese radio de la circunferencia: ")) ) e imprima cuanto es el diámetro y el área de esa circunferencia. 
+
+2) Realizar un programa en el que el usuario ingrese por pantalla la base y la altura de un triángulo e imprima el 
+área de dicho triángulo
+
+3) Realizar un programa en el que el usuario ingrese por pantalla la base y la altura de un cuadrado e imprima el 
+área del cuadrado. 
+
+4) El volumen de una esfera es (4/3)*pi*(radio**2), hacer un programa en el que el usuario ingrese por pantalla el radio de una esfera e imprima el volumen de la esfera.
+
+Nota: para usar la constante pi, escribe al principio del programa, en la primera linea from math import pi y tedrás el valor de pi en la variable pi. 
+
+

@@ -1,0 +1,38 @@
+1)Escribe un programa que muestre los números pares positivos entre 2 y un número
+cualquiera que introduzca el usuario por teclado.
+
+2)Haz un programa que pida el valor de dos enteros n y m y calcule el sumatorio de
+todos los números pares comprendidos entre ellos (incluyéndolos en el caso de que sean pares).
+
+3) Haz un programa que vaya leyendo números y mostrándolos por pantalla hasta que el
+usuario introduzca un número negativo. En ese momento, el programa mostrará un mensaje de
+despedida y finalizará su ejecución.
+
+4)Diseña un programa que lea una cadena y muestre el número de letras mayúsculas que
+contiene.
+
+5)Diseña una programa que lea una cadena y muestra en pantalla el mensaje ((Contiene
+dı́gito)) si contiene algún dı́gito y ((No contiene dı́gito)) en caso contrario.
+
+6)Una palabra es ((alfabética)) si todas sus letras están ordenadas alfabéticamente. Por ejemplo, ((amor)), ((chino)) e ((himno)) son palabras ((alfabéticas)). Diseña un programa que lea una palabra y nos diga si es alfabética o no.
+
+7)Haz un programa que vaya leyendo números hasta que el usuario introduzca un número
+negativo. En ese momento, el programa mostrará por pantalla el número mayor de cuantos ha
+visto.
+
+8) Escribe un programa que lea una cadena y un número entero k y muestre el mensaje
+((Todas son cortas)) si todas las palabras de la cadena son de longitud estrictamente menor
+que k, y ((Hay alguna palabra larga)) en caso contrario.
+
+
+Hola mundo nuevo
+6
+
+
+
+9) Diseña un programa que lea una cadena y un número entero k y nos diga cuántas
+palabras tienen una longitud de k caracteres.
+
+10) Diseña un programa que nos diga si una cadena es palı́ndromo o no. Una cadena es
+palı́ndromo si se lee igual de izquierda a derecha que de derecha a izquierda. Por ejemplo, ’ana’
+es un palı́ndromo.

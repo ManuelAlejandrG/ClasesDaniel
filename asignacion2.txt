@@ -1,0 +1,40 @@
+1) Diseña un programa que, dado un número real que debe representar la calificación
+numérica de un examen, proporcione la calificación cualitativa correspondiente al número da-
+do. La calificación cualitativa será una de las siguientes: ((Suspenso)) (nota menor que 5),
+((Aprobado)) (nota mayor o igual que 5, pero menor que 7), ((Notable)) (nota mayor o igual
+que 7, pero menor que 8.5), ((Sobresaliente)) (nota mayor o igual que 8.5, pero menor que 10),
+((Matrı́cula de Honor)) (nota 10).
+
+2) Diseña un programa que, dado un carácter cualquiera, lo identifique como vocal minúscula,
+vocal mayúscula, consonante minúscula, consonante mayúscula u otro tipo de carácter. 
+(sugerencia: usa el orden del diccionario para comparar las letras ).
+
+3) Diseña un programa que lea la edad de dos personas y diga quién es más joven, la
+primera o la segunda. Ten en cuenta que ambas pueden tener la misma edad. En tal caso, hazlo
+saber con un mensaje adecuado.
+
+4) Diseña un programa que tome por teclado tres valores numéricos y me muestre el menor valor.
+
+5) Diseña un programa que, dado un número entero, muestre por pantalla el mensaje ((El
+número es par.)) cuando el número sea par y el mensaje ((El número es impar.)) cuando sea
+impar.
+
+6) Diseña un programa que, dado un número entero, determine si éste es el doble de un
+número impar. (Ejemplo: 14 es el doble de 7, que es impar.)
+
+7) Un capital de C euros a un interés del x por cien anual durante n años se convierte en
+C*(1 + x/100)**n euros. Diseña un programa Python que solicite la cantidad C, el interés x y el 
+año n y calcule el capital final sólo si x es una cantidad positiva.
+
+8) Diseña un programa en el que pida el valor numérico de un mes y me indique en que estación 
+estamos dependiendo este mes. Recordando que invierno son los meses 1,2 y 3, primavera 4,5 y 6, 
+verano 7,8 y 9 y otoño 10,11 y 12.
+
+9) Diseñe un programa pida el valor de un año y determine si este es bisiesto.
+(sugerencia: un año es bisiesto si es divisible por 4 y ademas no es divisible por 100 o es divisible por 400)
+
+
+
+
+
+

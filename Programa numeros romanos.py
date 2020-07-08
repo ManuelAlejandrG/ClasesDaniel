@@ -37,10 +37,10 @@ while True:
             else:
                 ente += rom[t[i]]
 
-            print("EL NUMERO ROMANO QUE ACABA DE ESCRIBIR SERÍA EN NUMEROS ENTEROS: ", ente)
+        print("EL NUMERO ROMANO QUE ACABA DE ESCRIBIR SERÍA EN NUMEROS ENTEROS: ", ente)
         p = input(" ¿Qué deseas convertir) \n números (ROMANOS) a enteros o (ENTEROS) a números romanos \n Si desea (Salir): ")
     elif p == "SALIR" or p == "salir":
-        exit()
+        break
     else:
         print("Revise los datos introduccidos, vuelva a escribirlos... Espero ....")
         p = input(" ¿Qué deseas convertir) \n números (ROMANOS) a enteros o (ENTEROS) a números romanos \n Si desea (Salir): ")

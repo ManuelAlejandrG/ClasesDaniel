@@ -25,11 +25,6 @@ visto.
 que k, y ((Hay alguna palabra larga)) en caso contrario.
 
 
-Hola mundo nuevo
-6
-
-
-
 9) Diseña un programa que lea una cadena y un número entero k y nos diga cuántas
 palabras tienen una longitud de k caracteres.
 
